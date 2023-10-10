@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Taller Estrcture"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
