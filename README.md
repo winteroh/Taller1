@@ -80,5 +80,6 @@ Software Social(2)
 so1 = {("Instagram", "Kevin", 7, 20000)}
 so2 = {("Steam", "Rodrigo", 19, 0)}
 
-Codigos para compilar desde la terminar = 
+Codigos para compilar desde la terminar
+g++ -o main main.cpp
 ./main
