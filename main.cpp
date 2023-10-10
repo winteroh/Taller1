@@ -432,7 +432,7 @@ int main()
     //Poblar 5 software de ofimatica
     Ofimatica o1("Winterkitchen", "Notsteady", 15, 23000, 5);
     softwares.push_back(&o1);
-    Ofimatica o2("Jerusalen", "Epicknmss", 20, 30000, 10);
+    Ofimatica o2("Power point", "Epicknmss", 20, 30000, 10);
     softwares.push_back(&o2);
     Ofimatica o3("Sandbox", "minecube", 17, 22000, 132);
     softwares.push_back(&o3);
@@ -446,14 +446,14 @@ int main()
     softwares.push_back(&p1);
     Produccion p2("Riversgg", "twitch", 20, 3000, "streaming");
     softwares.push_back(&p2);
-    Produccion p3("JavierCatalan", "Camera", 18, 0, "fotos");
+    Produccion p3("Google fotos", "Camera", 18, 0, "fotos");
     softwares.push_back(&p3);
     Produccion p4("Luisito comunica", "Youtube", 25, 0, "Video");
     softwares.push_back(&p4);
     Produccion p5("Bizzarrap", "Sonic music", 22, 100000, "Musica");
     softwares.push_back(&p5);
     //Poblar 2 software navegadores 
-    Navegador n1("History channel", "maikel jordan", 18, 20000);
+    Navegador n1("History channel", "AE network", 18, 20000);
     softwares.push_back(&n1);
     Navegador n2("Merline", "netflix", 18, 2000);
     softwares.push_back(&n2);
